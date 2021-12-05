@@ -6,8 +6,8 @@
 
 :root {
   --base: #00adb5;
-  --spacing: 10px;
-  --blur: 10px;
+  --spacing: 5px;
+  --blur: 5px;
 }
 
 body {
