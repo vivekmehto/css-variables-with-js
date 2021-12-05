@@ -12,8 +12,8 @@
 
 body {
   text-align: center;
-  background: #193549;
-  color: white;
+  background: #eeeeee;
+  color: #393e46;
   font-weight: 100;
   font-size: 50px;
 }
@@ -27,6 +27,8 @@ input {
 }
 
 img {
+  max-width: 720px;
+  max-height: 720px;
   padding: var(--spacing);
   background: var(--base);
   filter: blur(var(--blur));
